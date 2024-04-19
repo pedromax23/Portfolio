@@ -10,7 +10,7 @@ function Header() {
                 <li>Experiencia</li>
                 <li>Proyectos</li>
                 <li>Sobre mí</li>
-                <li>Contecto</li>
+                <li>Contacto</li>
                 <div>
                     <button className='header-button'><i className="fa-regular fa-moon"></i></button>
                 </div>

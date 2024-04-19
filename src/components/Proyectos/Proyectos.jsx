@@ -14,7 +14,7 @@ function Proyectos() {
           <div className='tecnologias'>
             <span><i className="fa-brands fa-react"></i> React.js</span>
           </div>
-          <p>Este es un proyecto que realice siguiendo un video de Fazt Code. Esta aplicacion te permite registrar los gastos y mostrarlos en un grafico</p>
+          <p>"Este es un proyecto que realicé siguiendo un vídeo de Fazt Code. Esta aplicación te permite registrar los gastos y mostrarlos en un gráfico.</p>
           <a href="https://pedromax23.github.io/github-pages/"><i className="fa-solid fa-link"></i> Preview</a>
         </div>
       </article>

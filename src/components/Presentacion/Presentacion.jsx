@@ -12,7 +12,7 @@ function Presentacion() {
         <h1>Pedro Morgade</h1>
 
         <p className='info-presentacion'>
-            <strong>Desarrollador Web Full Stack.</strong> Soy de Mar del plata, Argentina. Expecializado en el desarrolo de aplicaciones web únicas
+            <strong>Desarrollador Web Full Stack.</strong> Soy de Mar del Plata, Argentina. Especializado en el desarrollo de aplicaciones web únicas.
         </p>
 
         <div className='div-botones'>
