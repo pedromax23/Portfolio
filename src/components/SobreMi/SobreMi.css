@@ -1,0 +1,30 @@
+.sect-sobreMi {
+    width: 90%;
+    margin: 20px auto;
+}
+
+.sect-sobreMi p {
+    color: rgb(146, 146, 146);
+}
+
+.destacado {
+    color: rgb(255, 255, 193);
+}
+
+
+@media (min-width: 720px) {
+    .sect-sobreMi, .sect-sobreMi p {
+        font-size: 20px;
+        width: 70%;
+    }
+}
+@media (min-width: 1200px) {
+    .sect-sobreMi {
+        font-size: 25px;
+        width: 50%;
+    }
+    .sect-sobreMi p {
+        width: 70%;
+    }
+
+}

@@ -1,0 +1,67 @@
+.div-presentacion {
+    width: 90%;
+    margin: 50px auto;
+    background-color: rgb(24, 16, 49);
+}
+
+.sub-div {
+    margin: 5px 0;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.sub-div img {
+    border-radius: 50%;
+    width: 20%;
+}
+
+.sub-div a {
+    text-decoration: none;
+    color: white;
+    border: 1px solid;
+    border-radius: 15px;
+    padding: 7px;
+    background-color: rgb(63, 49, 106);
+}
+
+.div-presentacion img {
+    border-radius: 50%;
+    width: 20%;
+}
+
+.info-presentacion {
+    font-size: 20px;
+    line-height: 1.5;
+    width: 80%;
+}
+
+.info-presentacion strong {
+    color: rgb(254 240 138);
+}
+
+.div-botones {
+    display: flex;
+    gap: 20px;
+}
+
+.div-botones a {
+    padding: 7px;
+    border: 1px solid gray;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(63, 49, 106);
+    border-radius: 15px;
+}
+
+@media (min-width: 720px) {
+    .div-presentacion {
+        width: 70%;
+    }
+}
+
+@media (min-width: 1200px) {
+    .div-presentacion, .div-presentacion p {
+        width: 50%;
+    }
+}
