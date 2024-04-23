@@ -7,10 +7,10 @@ function Header() {
     <header>
         <nav className='nav-header'>
             <ul className='header-ul'>
-                <li>Experiencia</li>
-                <li>Proyectos</li>
-                <li>Sobre mí</li>
-                <li>Contacto</li>
+
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#proyectos">Proyectos</a></li>
+                <li><a href='#sobreMi'>Sobre mí</a></li>
                 <div>
                     <button className='header-button'><i className="fa-regular fa-moon"></i></button>
                 </div>

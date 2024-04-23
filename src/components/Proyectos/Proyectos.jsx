@@ -6,7 +6,7 @@ import Cumpleaños from '../../assets/Cumpleaños.png'
 
 function Proyectos() {
   return (
-    <section className='sect-proyectos'>
+    <section id='proyectos' className='sect-proyectos'>
       <h2><i className="fa-solid fa-code"></i>Proyectos</h2>
       <article className='article-proyect'>
         <img src={Cumpleaños} alt="" />

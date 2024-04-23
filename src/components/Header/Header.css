@@ -19,6 +19,13 @@ header {
     margin: 0;
 }
 
+.header-ul a {
+    color: white;
+    text-decoration: none;
+}
+
+
+
 .header-button {
     background-color: rgba(42, 0, 167, 0.7);
     color: white;
@@ -45,5 +52,9 @@ header {
     }
     .header-ul {
         gap: 100px;
+    }
+
+    .header-ul a:hover {
+        font-size: 20px;
     }
 }
