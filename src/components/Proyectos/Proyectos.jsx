@@ -20,6 +20,7 @@ function Proyectos() {
             Además, he usado React para la interfaz visual y poder visualizar las imágenes.
           </p>
           <a href="https://pedromax23.github.io/Fotos-Pedro-React/"><i className="fa-solid fa-link"></i> Preview</a>
+          <a href="https://github.com/pedromax23/Fotos-Pedro-React"><i className="fa-solid fa-link"></i> Code</a>
         </div>
       </article>
       <article className='article-proyect'>
@@ -31,6 +32,7 @@ function Proyectos() {
           </div>
           <p>Este es un proyecto que realicé siguiendo un vídeo de Fazt Code. Esta aplicación te permite registrar los gastos y mostrarlos en un gráfico.</p>
           <a href="https://pedromax23.github.io/github-pages/"><i className="fa-solid fa-link"></i> Preview</a>
+          <a href="https://github.com/pedromax23/react-expenses-tracker"><i className="fa-solid fa-link"></i> Code</a>
         </div>
       </article>
     </section>
