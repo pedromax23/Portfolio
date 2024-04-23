@@ -14,11 +14,10 @@ function Proyectos() {
           <h3>Galeriad de fotos</h3>
           <div className='tecnologias'>
             <span className='tec-react'><i className="fa-brands fa-react"></i> React.js</span>
-            <span className='tec-express'><i className="fa-brands fa-react"></i> Express.js</span>
           </div>
           <p>Este proyecto lo he creado para exhibir las hermosas fotos que tomamos durante mi cumpleaños.
             <br />
-            He utilizado Express.js para crear la API REST y recuperar las fotos. Además, he empleado React para la interfaz visual y poder visualizar las imágenes.
+            Además, he usado React para la interfaz visual y poder visualizar las imágenes.
           </p>
           <a href="https://pedromax23.github.io/Fotos-Pedro-React/"><i className="fa-solid fa-link"></i> Preview</a>
         </div>
