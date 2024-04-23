@@ -27,7 +27,7 @@ function Proyectos() {
         <div>
           <h3>Gestor de gastos</h3>
           <div className='tecnologias'>
-            <span><i className="fa-brands fa-react"></i> React.js</span>
+            <span className='tec-react'><i className="fa-brands fa-react"></i> React.js</span>
           </div>
           <p>Este es un proyecto que realicé siguiendo un vídeo de Fazt Code. Esta aplicación te permite registrar los gastos y mostrarlos en un gráfico.</p>
           <a href="https://pedromax23.github.io/github-pages/"><i className="fa-solid fa-link"></i> Preview</a>
